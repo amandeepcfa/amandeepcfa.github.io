@@ -40,12 +40,12 @@
    	<div class="row">
 
    		<div class="top-bar">
-   			<a class="menu-toggle" href="#"> <span> Menu </span></a>
+   			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html"> MENU </a>
+		         <a href="index.html">MENU</a>
 		      </div>		      
- 
+
 		   	<nav id="main-nav-wrap">
 					<ul class="main-navigation">
 						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
@@ -224,7 +224,7 @@
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<i class="fa fa-graduation-cap"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -238,9 +238,9 @@
 Straight away, I went on to the task and single handedly set up the entire credit analysis process from
  ground up in the span of just two months. 
 <p> Once the initial set up was done, I started on with writing detailed credit appraisal reports covering 
-financial statement analysis, industry and peer analysis, risk identification etc. <p> At times when I am not cruncing numbers, I am involved 
+financial statement analysis, industry and peer analysis, risk identification etc. At times when I am not cruncing numbers, I am involved 
 in taking update calls with internal and external stakeholders, managing relationships with the underwriters, hiring and coaching team members
- and provding inputs for further process improvements to the management.<p> My impact: enabled quality underwriting of over USD 8 
+ and provding inputs for further process improvements to the management. My impact: enabled quality underwriting of over USD 8 
 billion of Surety bond exposures and gross underwritten premium of over USD 70 million in an year!   </p>
 	   				</div>
 
@@ -249,7 +249,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<i class="fa fa-graduation-cap"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -267,7 +267,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<i class="fa fa-graduation-cap"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -285,7 +285,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
 				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<i class="fa fa-graduation-cap"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -303,7 +303,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
 				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<i class="fa fa-graduation-cap"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -339,7 +339,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
+	   					<i class="fa fa-briefcase"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -357,7 +357,7 @@ billion of Surety bond exposures and gross underwritten premium of over USD 70 m
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
+	   					<i class="fa fa-briefcase"></i>
 	   				</div>
 
 	   				<div class="timeline-header">
